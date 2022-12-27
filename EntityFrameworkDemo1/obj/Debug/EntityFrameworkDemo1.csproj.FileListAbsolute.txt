@@ -1,0 +1,16 @@
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFrameworkDemo1.exe.config
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFrameworkDemo1.exe
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFrameworkDemo1.pdb
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFramework.dll
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFramework.xml
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.csproj.AssemblyReference.cache
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.Form1.resources
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.Properties.Resources.resources
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.csproj.GenerateResource.cache
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.csproj.CoreCompileInputs.cache
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.csproj.CopyComplete
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.exe
+C:\Users\enesa\source\repos\CSharpCourse\EntityFrameworkDemo1\obj\Debug\EntityFrameworkDemo1.pdb
